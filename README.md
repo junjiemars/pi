@@ -1,4 +1,4 @@
 # pi
-Play RaspBerry with kids.
+Play RaspBerry Pi with kids.
 
 
