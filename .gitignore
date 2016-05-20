@@ -66,3 +66,4 @@ pip-selfcheck.json
 **/include/
 
 **/Scripts/
+**/.vscode/
