@@ -64,3 +64,5 @@ pip-selfcheck.json
 **/bin/
 **/lib/
 **/include/
+
+**/Scripts/
